@@ -8,7 +8,6 @@ Class:
 Alignment: 
 Character-Role: 
 Location: 
-AssociatedGroup: 
 
 ---
 
