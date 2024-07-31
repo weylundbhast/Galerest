@@ -13,7 +13,7 @@ AssociatedGroup:
 ---
 
 <% tp.file.title %>
-<% await tp.file.move("/Galerest/Deities/" + tp.file.title) %>
+<% await tp.file.move("content/Cosmology/Deities/" + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewDeity");
