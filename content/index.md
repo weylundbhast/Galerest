@@ -1,7 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Galerest
 ---
-
-This is a blank Quartz installation.
-[[Anos The Sovereign]]
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Edrim]]
