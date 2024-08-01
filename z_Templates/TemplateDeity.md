@@ -1,14 +1,14 @@
 
 ---
-AssociatedGroup: 
-Gender: 
-Race: 
-Age: 
-Class: 
+Title: 
+Province: 
+Symbol: 
+Gender:
+Pronouns:
 Alignment: 
-Character-Role: 
-Location: 
-AssociatedGroup: 
+Holy Day: 
+Temple: 
+Relic: 
 
 ---
 
@@ -25,3 +25,23 @@ if (!hasTitle) {
     title = tp.file.title;
 }
 _%>
+
+Placeholder
+
+## Notable NPCs
+Placeholder
+
+## Appearance and Symbols
+Placeholder
+
+## Personality
+Placeholder
+
+## Worship
+Placeholder
+
+## Known Worshipers
+Placeholder
+
+## History
+Placeholder
