@@ -13,19 +13,8 @@ Worshipers:
 
 ---
 
-<% tp.file.title %>
-<% await tp.file.move("content/Cosmology/Deities/" + tp.file.title) %>
+NewDeity
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewDeity");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Deity Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
