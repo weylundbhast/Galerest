@@ -45,7 +45,8 @@ _%>
 > Worshipers | `=this.worshipers` |
 > Holy Day | `=this.HolyDay` |
 > Temple | `=this.Temple` |
-   Relic | `=this.Relic` |
+> Relic | `=this.Relic` |
+   
 
 
 Placeholder
