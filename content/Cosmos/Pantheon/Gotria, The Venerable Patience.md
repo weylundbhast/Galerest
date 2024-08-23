@@ -1,6 +1,6 @@
 
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: "Gotria, The Venerable Patience"
 draft: false
 tags:
   - 

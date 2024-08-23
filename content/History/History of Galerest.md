@@ -1,6 +1,6 @@
 
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: "History of Galerest"
 draft: false
 tags:
   - 

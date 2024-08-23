@@ -1,6 +1,6 @@
 
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: "Greater Beings"
 draft: false
 tags:
   - 
@@ -11,7 +11,7 @@ tags:
 - [[Gotria, The Venerable Patience]]
 - [[Esos, The Sovereign]]
 - [[Kelma, The Pilgrim]]
-- [[Neunor, The Wolf Who Wanders]]
+- [[Neuenor, The Wolf Who Wanders]]
 - [[Daisa, The Twinned Falcon]]
 - [[Agatea, The August Warrior]]
 - [[Rothant, The Towering Delirium]]
