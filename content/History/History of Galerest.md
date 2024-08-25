@@ -1,7 +1,7 @@
 
 ---
 title: "History of Galerest"
-draft: false
+draft: true
 tags:
   - 
 ---
