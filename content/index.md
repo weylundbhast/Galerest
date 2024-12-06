@@ -1,11 +1,13 @@
 ---
 title: Welcome to Galerest
 ---
+[Galerest Inspiration Playlist](https://open.spotify.com/playlist/7mcYEehZWzxxXicmvjSp97?si=TkwITvS5S9if192FVYdndQ)
+
 Galerest is a land of miracles and quests.  Heroes and Villains alike perform great deeds for the favor of dead gods and dormant spirits.  People quest for adventure, love, riches and relics left behind from a bygone era.
 
 The Lands of Galerest are populated by a myriad a beings.  Though myth and fables lend stories to the origins of individual heritages in Galerest, time marches on. While some bastions to those origins may be found throughout the world, the populations are equally as unique as they are diverse.
 
-The [[Greater Beings]] of Galerest created many beings in the formation of the world.  Humans, Elves, Dwarves, Halflings, Gnomes and Orcs were formed as new beings, while the 
+The [[Greater Beings]] of Galerest created many beings in the formation of the world.  Humans, Elves, Dwarves, Halflings, Gnomes and Orcs were formed as new beings, while other heritages were brought about through the manipulation of animals by ancient powers.  
 
 # Lands of Galerest
 
