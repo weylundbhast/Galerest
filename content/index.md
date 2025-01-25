@@ -13,8 +13,8 @@ While [[Heritage]] differentiates between the peoples of Galerest, it does not d
 
 # Lands of Galerest
 
+![[Galerest.png]]
 
-Add a Map here of the world
 ## Continents
 
 ### [[Imeron]]
