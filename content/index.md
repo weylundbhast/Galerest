@@ -15,7 +15,7 @@ While [[Heritage]] differentiates between the peoples of Galerest, it does not d
 
 Test
 
-![](/content/Images/Galerest.png)
+![Image](/content/Images/Galerest.png)
 
 ## Continents
 
