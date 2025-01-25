@@ -48,3 +48,5 @@ The [[Greater Beings]] manipulated all forms of animals to into the peoples of t
 **Toxic Skin**. Your toxic skin makes it dangerous for others to touch you. If you are grappled or swallowed, the creature performing the action takes poison damage equal to your Constitution modifier at the beginning of each turn they are touching you.
 
 **Slick Bodied**. While unarmored, you take no penalties while squeezing. Additionally, you can squeeze through spaces as if you were a Small creature.
+
+
