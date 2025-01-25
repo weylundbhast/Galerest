@@ -13,8 +13,8 @@ While [[Heritage]] differentiates between the peoples of Galerest, it does not d
 
 # Lands of Galerest
 
-Testing 2
-[Image](/content/Images/Galerest.png)
+Testing 3
+![Image](content/Galerest.png)
 
 ## Continents
 
