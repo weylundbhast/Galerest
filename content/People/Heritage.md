@@ -37,7 +37,7 @@ tags:
 
 **Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
 
-**Size.** Salamar stand between 3 and 4 feet tall, and generally have a slender build.
+**Size.** Salamar stand between 3 and 4 feet tall.
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
 
@@ -50,9 +50,9 @@ tags:
 
 ## Lotoran (Raccoon)
 
-**Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
+**Ability Score Increase**. Your Dexterity score increases by 2 and your Charisma score increases by 1.
 
-**Size.** Lotoran stand between 4 and 5 feet tall, and generally have a slender build.
+**Size.** Lotoran stand between 4 and 5 feet tall.
 
 **Speed**. Your base walking speed is 30 feet.  You have a swimming speed of 25 feet.
 
@@ -63,9 +63,9 @@ tags:
 
 ## Brantus (Goose)
 
-**Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
+**Ability Score Increase**. Your Strength score increases by 2 and your Constitution score increases by 1.
 
-**Size.** Brantus stand between 6 and 7 feet tall, and generally have a slender build.
+**Size.** Brantus stand between 6 and 7 feet tall.
 
 **Speed**. Your base walking speed is 30 feet.  You have a swimming speed of 25 feet.
 
@@ -76,9 +76,9 @@ tags:
 
 ## Dasypan (Armadillo)
 
-**Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
+**Ability Score Increase**. Your Constitution score increases by 2 and your Intelligence score increases by 1.
 
-**Size.** Dasypan stand between 3 and 4 feet tall, and generally have a slender build.
+**Size.** Dasypan stand between 3 and 4 feet tall, and are covered in a natural armor plating.
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
 
@@ -89,7 +89,7 @@ tags:
 
 ## Tachian (Polecat)
 
-**Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
+**Ability Score Increase**. Your Dexterity score increases by 2 and your Charisma score increases by 1.
 
 **Size.** Tachian stand between 3 and 4 feet tall, and generally have a slender build.
 
@@ -102,9 +102,9 @@ tags:
 
 ## Hedge (Hedgehog)
 
-**Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
+**Ability Score Increase**. Your Dexterity score increases by 2 and your Charisma score increases by 1.
 
-**Size.** Hedge stand between 3 and 4 feet tall, and generally have a slender build.
+**Size.** Hedge stand between 3 and 4 feet tall, and backs are covered with long quills.
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
 
