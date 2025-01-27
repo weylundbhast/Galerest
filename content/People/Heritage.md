@@ -7,8 +7,6 @@ tags:
 ---
 # Animalfolk
 
-The [[Greater Beings]] manipulated all forms of animals to into the peoples of the world.  Below is a sampling of the
-
 ## Vulpin (Fox)
 
 **Ability Score Increase**. Your Intelligence score increases by 2 and your Charisma score increases by 1.
@@ -58,6 +56,11 @@ The [[Greater Beings]] manipulated all forms of animals to into the peoples of t
 
 **Speed**. Your base walking speed is 30 feet.  You have a swimming speed of 25 feet.
 
+**Darkvision**.  You can see in dim light within 60ft of you as if it were bright light and in darkness as if it were dim light.  You discern colors in that darkness only as shades of gray.
+
+**Sleuthing Skills**. You gain gain advantage of Investigation rolls when searching or looting.
+
+
 ## Brantus (Goose)
 
 **Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
@@ -65,6 +68,12 @@ The [[Greater Beings]] manipulated all forms of animals to into the peoples of t
 **Size.** Brantus stand between 6 and 7 feet tall, and generally have a slender build.
 
 **Speed**. Your base walking speed is 30 feet.  You have a swimming speed of 25 feet.
+
+**No Fear**. You have advantage on saving throws against being Frightened.
+
+**Aggressive**. As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.  Once you’ve used this trait, you can’t use it again until you finish a short or long rest.
+
+
 ## Dasypan (Armadillo)
 
 **Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
@@ -72,6 +81,12 @@ The [[Greater Beings]] manipulated all forms of animals to into the peoples of t
 **Size.** Dasypan stand between 3 and 4 feet tall, and generally have a slender build.
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
+
+**Carapace**. Armadillo-kins have armored hide on their back, tail and the top of their head. While unarmored your Armor Class is equal to 12 + your Dexterity modifier.
+
+**Ball Defense**. As an action, if you are not wearing armor or wearing armor specialized to your body structure, you can roll into a ball, gives you a base AC of 20 (your Dexterity modifier doesn't affect this number). This action does provoke opportunity attacks. While rolled up into a plated ball, you can't perform any action except moving at 30 feet on a flat surface, or exiting your ball defense.
+
+
 ## Tachian (Polecat)
 
 **Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
@@ -80,6 +95,11 @@ The [[Greater Beings]] manipulated all forms of animals to into the peoples of t
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
 
+**Darkvision**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+
+**Disarming Scent**. When a creature makes an opportunity attack against you, you can use your reaction to grant the attack disadvantage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+
 ## Hedge (Hedgehog)
 
 **Ability Score Increase**. Your Dexterity score increases by 2 and your Wisdom score increases by 1.
@@ -87,3 +107,7 @@ The [[Greater Beings]] manipulated all forms of animals to into the peoples of t
 **Size.** Hedge stand between 3 and 4 feet tall, and generally have a slender build.
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
+
+**Darkvision**.  You can see in dim light within 60ft of you as if it were bright light and in darkness as if it were dim light.  You discern colors in that darkness only as shades of gray.
+
+**Spiky**.  While you are unarmored or wearing armor adapted to your spikes, successful melee attacks against you cause the attacker to take 1d4 damage.  Additionally, immediately after you move at least 20 feet, you can use your bonus action to make one melee attack with your spikes, dealing 2d4 piercing damage.
