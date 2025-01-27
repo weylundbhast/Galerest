@@ -13,28 +13,29 @@ While [[Heritage]] differentiates between the peoples of Galerest, it does not d
 
 # Lands of Galerest
 
-Testing 3
-![Image](content/Galerest.png)
+<a href="https://imgur.com/BVqEgBl"><img src="https://i.imgur.com/BVqEgBl.png" title="source: imgur.com" /></a>
 
 ## Continents
 
 ### [[Imeron]]
 
-Imeron is a northern continent which is dominated by the [[Vethor Monarchy]] which is bordered far to the north by the [[Athela Confederacy]].
+Imeron is a northern continent which is dominated by the [[Vethor Monarchy]].  A society of  
 
- eastern continent (north).  Location of [[The Seat of the Gods]].  deeply religious society.  arthurian.  questing on whim of dead gods.  knights/banners/squires and all.  
- 
+far to the north by the [[Athela Council]].  
+
+East of the Mountains sits the location of [[The Seat of the Gods]].
 ### [[Velenar]]
 
-Scarred by the events of XXXXX, the majority of Velenar is a barren rocky landscape populated with small outposts of lush civilization that have flourished in the few habitable areas.  These population centers are generally referred to as The Alliance of Free Cities.
+Scarred by [The Titanic Wars](content/History/The%20Titanic%20Wars.md), the majority of Velenar is a barren landscape populated with small outposts of lush civilization that have flourished in the few habitable areas.  These population centers are generally referred to as the [[Alliance of Free Cities]].
+
 
 ### [[Edrim]]
 
-Ruled by Western Continent. largely society that follow the old ways. rejected the pantheon and remained loyal to the elemental forces. wild place, unusual magic bleeds into the material plane here.
+Edrim is a diverse landscape populated by a large variation of societies, many of which follow the old ways, rejecting the modern pantheon and remained loyal to the elemental forces.  No single power controls Edrim, and instead it is governed by a collection of city states.  Edrim is filled with wild place, and unusual magic bleeds into the material plane.
 
 ### [[Kalas]]
 
-The Kalas Islands are a wide ranging archipelago populated by two opposing forces.  The XXX Trade Company is set on claiming resources within the archipelago and has set up outposts to facilitate their activities.  The XXX Pirates confederacy raids the islands, battling against the restrictions of their freedoms.   
+The Kalas Islands are a wide ranging archipelago populated by two opposing forces.  The [[Toria Trade Company]] is set on claiming resources within the archipelago and has set up outposts to facilitate their activities.  The [[Siren Song Confederacy]] raids the islands, battling against the restrictions of their freedoms.   
 
 ## Oceans
 
