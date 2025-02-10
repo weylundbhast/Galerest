@@ -89,15 +89,15 @@ tags:
 
 ## Tachian (Polecat)
 
-**Ability Score Increase**. Your Dexterity score increases by 2 and your Charisma score increases by 1.
+**Ability Score Increase**. Your Intelligence score increases by 2 and your Constitution score increases by 1.
 
 **Size.** Tachian stand between 3 and 4 feet tall, and generally have a slender build.
 
 **Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
 
-**Darkvision**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+**Keen Smell.** You have advantage on Wisdom (Perception) checks that rely on smell.
 
-**Disarming Scent**. When a creature makes an opportunity attack against you, you can use your reaction to grant the attack disadvantage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Disarming Scent**. When a creature makes a melee attack against you, you can use your reaction to grant the attack disadvantage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 
 ## Hedge (Hedgehog)
@@ -111,3 +111,15 @@ tags:
 **Darkvision**.  You can see in dim light within 60ft of you as if it were bright light and in darkness as if it were dim light.  You discern colors in that darkness only as shades of gray.
 
 **Spiky**.  While you are unarmored or wearing armor adapted to your spikes, successful melee attacks against you cause the attacker to take 1d4 damage.  Additionally, immediately after you move at least 20 feet, you can use your bonus action to make one melee attack with your spikes, dealing 2d4 piercing damage.
+
+## Wolf (Wolf)
+
+**Ability Score Increase**. Your Wisdom score increases by 2 and your Dexterity score increases by 1.
+
+**Size.** Hedge stand between 4 and 5 feet tall, and backs are covered with long quills.
+
+**Speed**. Your base walking speed is 25 feet.  You have a swimming speed of 25 feet.
+
+**Keen Smell.** You have advantage on Wisdom (Perception) checks that rely on smell.
+
+**Spiky**.  

@@ -24,7 +24,7 @@ Imeron is dominated by the [[Vethor Monarchy]].  A society steeped in the tradit
 East of the Mountains sits the location of [[The Seat of the Gods]], a holy site that is believed to be the final resting place of the Gods. 
 ### [[Velenar]]
 
-Scarred by [The Titanic Wars](content/History/The%20Titanic%20Wars.md), the majority of Velenar is a barren landscape populated with small outposts of lush civilization that have flourished in the few habitable areas.  These population centers are generally referred to as the [[Alliance of Free Cities]].
+Scarred by [The Titanic Wars](content/History/The%20Titanic%20Wars.md), the majority of Velenar is a barren landscape populated with small outposts of lush civilization that have flourished in the few habitable areas.  These population centers are generally referred to as the [[content/Geography/Velenar/Alliance of Free Cities]].
 
 
 ### [[Edrim]]

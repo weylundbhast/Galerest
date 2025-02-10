@@ -15,19 +15,19 @@ tags:
 - [[Daisa, The Twinned Falcon]]
 - [[Agatea, The August Warrior]]
 - [[Rothant, The Towering Delirium]]
-- [[Laurand, the Honorable Steel]]
+- [[Laurand, The Honorable Steel]]
 - [[Irros, They Who Stand]]
 - [[Vaelith, The Fallen Servant]]
 
 # Elemental Titans
 
-- Earth
-- Wind
-- Water
+- Kren, The Stonewarden
+- Altus, The Nine Winds
+- Nimon, The Everdepth
 - Fire
-- Decay
-- Fey
-- Shadowfell
+- Mycon, The Returned
+- Wyrd, Chaos Reigned
+- Shadowfell, Malos
 - Abyss
 - Hell
 
