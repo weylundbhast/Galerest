@@ -19,7 +19,7 @@ tags:
 - [[Irros, They Who Stand]]
 - [[Vaelith, The Fallen Servant]]
 
-# Elemental Titans
+# Primordial Beings
 
 - Kren, The Stonewarden
 - Altus, The Nine Winds
